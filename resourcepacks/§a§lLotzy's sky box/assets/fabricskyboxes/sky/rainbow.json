@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 2,
+	"type": "square-textured",
+	"blend": {
+		"type": "alpha"
+	},
+	"textures": {
+		"bottom": "fabricskyboxes:sky/transparent.png",
+		"east": "fabricskyboxes:sky/transparent.png",
+		"north": "fabricskyboxes:sky/rainbow.png",
+		"south": "fabricskyboxes:sky/transparent.png",
+		"top": "fabricskyboxes:sky/transparent.png",
+		"west": "fabricskyboxes:sky/transparent.png"
+	},
+	"properties": {
+		"fade": {
+			"startFadeIn": 23500,
+			"endFadeIn": 24000,
+			"startFadeOut": 12500,
+			"endFadeOut": 13000
+		},
+		"shouldRotate": false
+	},
+	"conditions": {
+		"weather": [ "rain", "thunder" ],
+		"worlds": [ "minecraft:overworld" ]
+	},
+	"decorations": {
+		"showMoon": true,
+		"showStars": false,
+		"showSun": true
+	}
+}

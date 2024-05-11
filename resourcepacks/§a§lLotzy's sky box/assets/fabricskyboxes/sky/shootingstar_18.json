@@ -1,0 +1,42 @@
+{
+	"blend": {
+		"type": "add"
+	},
+	"conditions": {
+		"worlds": [
+			"minecraft:overworld"
+		]
+	},
+	"properties": {
+		"fade": {
+			"startFadeIn": 16543,
+			"endFadeIn": 16550,
+			"startFadeOut": 16629,
+			"endFadeOut": 16637
+		},
+		"rotation": {
+			"axis": [
+				-90.0,
+				0.0,
+				0.0
+			],
+			"rotationSpeedY": 255,
+			"static": [
+				0.0,
+				0.0,
+				0.0
+			]
+		},
+		"shouldRotate": true
+	},
+	"schemaVersion": 2,
+	"textures": {
+		"bottom": "fabricskyboxes:sky/black.png",
+		"east": "fabricskyboxes:sky/black.png",
+		"north": "fabricskyboxes:sky/black.png",
+		"south": "fabricskyboxes:sky/black.png",
+		"top": "fabricskyboxes:sky/shootingstar_iron.png",
+		"west": "fabricskyboxes:sky/black.png"
+	},
+	"type": "square-textured"
+}
