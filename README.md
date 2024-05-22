@@ -47,6 +47,7 @@
 [ThreadTweak](https://modrinth.com/mod/threadtweak) - позволяет игре запускаться более плавно, распределяя нагрузку при запуске на несколько ядер вашего процессора, вместо одного. Замена SmoothBoot</br>
 [Exordium](https://modrinth.com/mod/exordium) - позволяет снизить частоту обновления игрового интерфейса, что никак не сказывается на игровом процессе, но дает небольшой выйгрыш по производительности.</br>
 [Nvidium](https://modrinth.com/mod/nvidium) - значительно улучшает производительность рендера при использовании видеокарт Nvidia. Автоматически отключается, если не может быть запущен.
+[IrisShaders](https://modrinth.com/mod/iris) - позволяет использовать шейдеры на Fabric, при поддержке Sodium.
 </br>
 Некоторые дополнительные моды для удобства:</br>
 [BetterF3](https://modrinth.com/mod/betterf3) - улучшает отображение экрана отладки (F3).</br>
@@ -61,7 +62,8 @@
 [SodiumExtra](https://modrinth.com/mod/sodium-extra) - добавляет большее количество настроек графики игры при наличии Sodium</br>
 [ReesesSodiumOptions](https://modrinth.com/mod/reeses-sodium-options) - изменяет стандартное меню настроек графики, так, чтобы оно умещалось в любое разрешение игры (необходимо только при наличии SodiumExtra)</br>
 [ClothConfig](https://modrinth.com/mod/cloth-config) - добавляет настройки для определенных модов</br>
-[WorldEditCUI](https://modrinth.com/mod/worldedit-cui) - визуально отображает выделение при использовании мода или плагина WorldEdit.</br>
+[WorldEditCUI](https://modrinth.com/mod/worldedit-cui) - визуально отображает выделение при использовании мода или плагина WorldEdit.
+[PlasmoVoice](https://modrinth.com/plugin/plasmo-voice) - добавляет в игру голосовой чат, позволяющий общаться более удобно</br>
 </br>
 Немножко визуала:</br>
 [Visuality](https://modrinth.com/mod/visuality) - добавляет некоторые эффекты на блоки и сущности. Например частиты при дожде на воде, блеск на аметистах, кости при ударе скелета и т.д</br>
