@@ -47,7 +47,6 @@
 [ThreadTweak](https://modrinth.com/mod/threadtweak) - позволяет игре запускаться более плавно, распределяя нагрузку при запуске на несколько ядер вашего процессора, вместо одного. Замена SmoothBoot</br>
 [Exordium](https://modrinth.com/mod/exordium) - позволяет снизить частоту обновления игрового интерфейса, что никак не сказывается на игровом процессе, но дает небольшой выйгрыш по производительности.</br>
 [Nvidium](https://modrinth.com/mod/nvidium) - значительно улучшает производительность рендера при использовании видеокарт Nvidia. Автоматически отключается, если не может быть запущен.
-[IrisShaders](https://modrinth.com/mod/iris) - позволяет использовать шейдеры на Fabric, при поддержке Sodium.
 </br>
 Некоторые дополнительные моды для удобства:</br>
 [BetterF3](https://modrinth.com/mod/betterf3) - улучшает отображение экрана отладки (F3).</br>
@@ -72,7 +71,8 @@
 [NotEnoughAnimations](https://modrinth.com/mod/not-enough-animations) - добавляет новые анимации для игроков, такие как: поднятие/спуск по лестницам, держание карты/предметов в рукеи т.д</br>
 [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) - добавляет динамическое освещение от некоторых сущностей или предметов (когда они надеты/у вас в руке).</br>
 [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) - добавляет возможность установки неба (skybox) из ресурс пака с детальной настройкой каждого параметра</br>
-[CITResewn](https://modrinth.com/mod/cit-resewn) - позволяет изменять текстуру предмета исхода из его аттрибутов.</br> 
+[CITResewn](https://modrinth.com/mod/cit-resewn) - позволяет изменять текстуру предмета исхода из его аттрибутов.
+[IrisShaders](https://modrinth.com/mod/iris) - позволяет использовать шейдеры на Fabric, при поддержке Sodium.</br> 
 </br>
 Наборы ресурсов в сборке:</br>
 [Faithful 8x8](https://www.curseforge.com/minecraft/texture-packs/f8thful) - стандартный набор ресурсов зашакаленный до 8х8 пикселей. Он был разбит на составляющие, от предметов до интерфейса, может помочь выйграть в производительности, если всё совсем плохо.</br>
